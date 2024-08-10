@@ -1,1 +1,23 @@
+/* General page styles */
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+    margin: 50px 0;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 50px;
+    font-size: 14px;
+}
 
